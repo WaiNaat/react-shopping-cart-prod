@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/react-shopping-cart-prod/static/js/main.3eab7c22.js",
+    "main.js": "/react-shopping-cart-prod/static/js/main.d181dbef.js",
     "static/media/CouponBanner.png": "/react-shopping-cart-prod/static/media/CouponBanner.29c6570bed86d9b1118f.png",
     "static/media/CouponBannerSmall.png": "/react-shopping-cart-prod/static/media/CouponBannerSmall.86545369942ed6dbc645.png",
     "index.html": "/react-shopping-cart-prod/index.html",
-    "main.3eab7c22.js.map": "/react-shopping-cart-prod/static/js/main.3eab7c22.js.map"
+    "main.d181dbef.js.map": "/react-shopping-cart-prod/static/js/main.d181dbef.js.map"
   },
   "entrypoints": [
-    "static/js/main.3eab7c22.js"
+    "static/js/main.d181dbef.js"
   ]
 }
